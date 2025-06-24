@@ -1,4 +1,5 @@
-![WhatsApp Image 2025-03-22 at 14 28 16_288e68d7](https://github.com/user-attachments/assets/226d0ad1-f981-43ad-bfa9-30bb197c42d7)# MyHSEApp
+![hse-removebg-preview (2)](https://github.com/user-attachments/assets/e82f6d39-13dc-4a80-acb5-18641cadfe82)
+# MyHSEApp
 
 **MyHSEApp** is a mobile-first application designed to help students and administrators manage Health, Safety, and Environmental (HSE) concerns in academic environments. It enables users to report issues, receive updates, and view safety notifications all in one place.
 
@@ -102,6 +103,7 @@ Valerie Onoja Amarachi
 ![WhatsApp Image 2025-03-22 at 14 28 21_46226818](https://github.com/user-attachments/assets/b41fc7a5-ab6b-4aac-a049-ab169f0e920f)
 ![WhatsApp Image 2025-03-22 at 14 28 20_1a7fbe49](https://github.com/user-attachments/assets/4b7b5879-f06f-4644-ad8d-02244e21deb5)
 ![WhatsApp Image 2025-03-22 at 14 28 19_5058353d](https://github.com/user-attachments/assets/3049910f-c89a-4249-9c78-cac7dae0db62)
+![WhatsApp Image 2025-03-22 at 14 28 16_288e68d7](https://github.com/user-attachments/assets/226d0ad1-f981-43ad-bfa9-30bb197c42d7)
 [Uploading WhatsApp Image 2025-03-22 at 14.28.16_288e68d7.jpg…]()
 
 
